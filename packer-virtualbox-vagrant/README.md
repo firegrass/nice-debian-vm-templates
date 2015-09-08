@@ -1,3 +1,9 @@
+# NICE specific notes
+
+1. Install VMWare workstation
+2. # /etc/init.d/vmware start
+3. $ packer build debian-8-jessie-virtualbox.json
+
 # Vanilla Debian Packer templates
 
 The templates here are used to create the Debian Vagrant base boxes available at 
